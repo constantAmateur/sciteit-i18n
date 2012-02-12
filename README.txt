@@ -1,16 +1,16 @@
-This file is for you to describe the reddit_i18n application. Typically
+This file is for you to describe the sciteit_i18n application. Typically
 you would include information such as the information below:
 
 Installation and Setup
 ======================
 
-Install ``reddit_i18n`` using easy_install::
+Install ``sciteit_i18n`` using easy_install::
 
-    easy_install reddit_i18n
+    easy_install sciteit_i18n
 
 Make a config file as follows::
 
-    paster make-config reddit_i18n config.ini
+    paster make-config sciteit_i18n config.ini
 
 Tweak the config file as appropriate and then setup the application::
 
